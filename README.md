@@ -6,9 +6,6 @@
 ## 📋 Project Overview
 End-to-end analysis of Superstore sales data to uncover business insights and improve sales performance and customer satisfaction.
 
-## 🎯 Problem Statement
-*"How can the company enhance sales performance and customer satisfaction through data-driven insights?"*
-
 ## 📊 Analysis Highlights
 
 ### 🔍 Key Findings
